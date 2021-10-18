@@ -29,6 +29,8 @@
 | GL-E750 | QCA9531 | mips_24kc |支持 |
 | GL-X750 | QCA9531 | mips_24kc |支持 |
 | GL-MiFi | AR9331 | mips_24kc |支持 |
+| GL-MV1000  | Marvell Armada 88F3720 | Marvell ARMADA 3700LP(ARM64) |支持 |
+| GL-MV1000W | Marvell Armada 88F3720 | Marvell ARMADA 3700LP(ARM64) |支持 |
 # 支持mipsel_24kc设备型号
 | 路由器型号| CPU型号 | 框架 | 是否支持安装 |
 | :--: | :--: | :--: |:--: |
