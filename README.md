@@ -8,7 +8,7 @@
 
 ## 基于GL源码编译插件
 
-使用19.07.07分支编译，包含插件 passwall，ssr plus, frpc, nps, unblockneteasemusic
+使用19.07.07分支编译
 # GL路由器插Passwall、ShadowsocksR Plus+、OpenClash、Clash
 <br>安装包包含单独插件和依赖包
 <br>GL-MT1300、GL-XE300等GL路由器插件Passwall、ShadowsocksR Plus+、OpenClash、Clash下载地址
@@ -29,6 +29,9 @@
 | GL-E750 | QCA9531 | mips_24kc |支持 |
 | GL-X750 | QCA9531 | mips_24kc |支持 |
 | GL-MiFi | AR9331 | mips_24kc |支持 |
+# 支持ARM64设备型号
+| 路由器型号| CPU型号 | 框架 | 是否支持安装 |
+| :--: | :--: | :--: |:--: |
 | GL-MV1000  | Marvell Armada 88F3720 | Marvell ARMADA 3700LP(ARM64) |支持 |
 | GL-MV1000W | Marvell Armada 88F3720 | Marvell ARMADA 3700LP(ARM64) |支持 |
 # 支持mipsel_24kc设备型号
@@ -40,5 +43,4 @@
 <br>具体教程可用参考一下文章进行扩展flash
 * [《如何在OpenWrt把TF卡挂载到 /overlay 并扩大磁盘空间安装插件》](https://op.igotp.com/73.html)
 * [《GL.iNet路由器一键TF卡或USB扩展并部署openwrt系统脚本》](https://op.igotp.com/21.html)
-* - 空间不够可参考openwrt扩容overlay
-* - opkg update && opkg install block-mount luci ttyd luci-app-ttyd luci-compat luci-lib-ipkg wget htop
+
