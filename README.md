@@ -9,9 +9,6 @@
 ## 基于GL源码编译插件
 
 使用19.07.07分支编译，包含插件 passwall，ssr plus, frpc, nps, unblockneteasemusic
-
-- 空间不够可参考openwrt扩容overlay
-- opkg update && opkg install block-mount luci ttyd luci-app-ttyd luci-compat luci-lib-ipkg wget htop
 # GL路由器插Passwall、ShadowsocksR Plus+、OpenClash、Clash
 <br>安装包包含单独插件和依赖包
 <br>GL-MT1300、GL-XE300等GL路由器插件Passwall、ShadowsocksR Plus+、OpenClash、Clash下载地址
@@ -41,3 +38,5 @@
 <br>具体教程可用参考一下文章进行扩展flash
 * [《如何在OpenWrt把TF卡挂载到 /overlay 并扩大磁盘空间安装插件》](https://op.igotp.com/73.html)
 * [《GL.iNet路由器一键TF卡或USB扩展并部署openwrt系统脚本》](https://op.igotp.com/21.html)
+* - 空间不够可参考openwrt扩容overlay
+* - opkg update && opkg install block-mount luci ttyd luci-app-ttyd luci-compat luci-lib-ipkg wget htop
