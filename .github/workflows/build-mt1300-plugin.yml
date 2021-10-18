@@ -18,7 +18,7 @@ on:
       ssh:
         description: 'SSH connection to Actions'
         required: false
-        default: 'false'
+        default: 'true'
 
 env:
   REPO_OP: https://github.com/gl-inet/openwrt.git
@@ -28,7 +28,6 @@ env:
   PATCH_PATH: patch
   CONFIG_FILE: .config
   CUSTOM_FEEDS: scripts/customize-feeds.sh
-  SSH_ACTIONS: true
   UPLOAD_BIN_DIR: true
   UPLOAD_FIRMWARE: true
   ACTIONS_ALLOW_UNSECURE_COMMANDS: true
