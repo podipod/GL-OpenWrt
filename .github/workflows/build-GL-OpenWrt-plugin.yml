@@ -7,7 +7,7 @@
 #
 # https://github.com/P3TERX/Actions-OpenWrt
 # Description: Build OpenWrt using GitHub Actions
-#
+# git clone $REPO_OP -b $REPO_BRANCH openwrt  62行
 
 name: Build GL-OpenWrt Plugin
 
@@ -59,7 +59,6 @@ jobs:
       working-directory: /workdir
       run: |
         df -hT $PWD
-        # git clone $REPO_OP -b $REPO_BRANCH openwrt
         git clone $REPO_LEDE -b master lede
         ln -sf /workdir/openwrt $GITHUB_WORKSPACE/openwrt
         ln -sf /workdir/lede $GITHUB_WORKSPACE/lede
