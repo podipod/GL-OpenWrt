@@ -12,11 +12,12 @@
 <br>GL-MT1300、GL-XE300等GL路由器插件Passwall、ShadowsocksR Plus+、OpenClash、Clash下载地址
 <br>--插件经过多设备测试稳定可用，保证安全可靠，请放心使用！
 <br>
-# [OpenWrt路由器插件下载地址](https://op.igotp.com)访问网站提示【Error 1020】请使用代理访问！！！
+# [OpenWrt路由器插件下载地址](https://op.igotp.com)
+***访问网站提示【Error 1020】请使用代理访问！！！
 <br>https://op.igotp.com
-* [支持mipsel_24kc CPU框架「MT7621A」插件](https://op.igotp.com/category/mipsel_24kc/)访问网站提示【Error 1020】请使用代理访问！！！
-* [支持mips_24kc 「AR9331、QCA9531、QCA9563」CPU框架插件](https://op.igotp.com/category/mips_24kc/)访问网站提示【Error 1020】请使用代理访问！！！
-* [支持aarch64_cortex-a53「Marvell Armada 88F3720」CPU框架插件](https://op.igotp.com/category/ARM_Cortex-A53/)访问网站提示【Error 1020】请使用代理访问！！！
+* [支持mipsel_24kc CPU框架「MT7621A」插件](https://op.igotp.com/category/mipsel_24kc/)  访问网站提示【Error 1020】请使用代理访问！！！
+* [支持mips_24kc 「AR9331、QCA9531、QCA9563」CPU框架插件](https://op.igotp.com/category/mips_24kc/)  访问网站提示【Error 1020】请使用代理访问！！！
+* [支持aarch64_cortex-a53「Marvell Armada 88F3720」CPU框架插件](https://op.igotp.com/category/ARM_Cortex-A53/)  访问网站提示【Error 1020】请使用代理访问！！！
 # 支持mips_24kc设备型号
 | 路由器型号| CPU型号 | 是否支持安装 |
 | :--: | :--: | :--: |
@@ -45,6 +46,6 @@
 # 路由器flash太小解决方法
 <br>只要你的设备支持TF内存卡或者USB都可以通过扩展挂载外置设备来使用
 <br>具体教程可用参考一下文章进行扩展flash
-* [《如何在OpenWrt把TF卡挂载到 /overlay 并扩大磁盘空间安装插件》](https://op.igotp.com/73.html)访问网站提示【Error 1020】请使用代理访问！！！
-* [《GL.iNet路由器一键TF卡或USB扩展并部署openwrt系统脚本》](https://op.igotp.com/21.html)访问网站提示【Error 1020】请使用代理访问！！！
+* [《如何在OpenWrt把TF卡挂载到 /overlay 并扩大磁盘空间安装插件》](https://op.igotp.com/73.html)  访问网站提示【Error 1020】请使用代理访问！！！
+* [《GL.iNet路由器一键TF卡或USB扩展并部署openwrt系统脚本》](https://op.igotp.com/21.html)  访问网站提示【Error 1020】请使用代理访问！！！
 
