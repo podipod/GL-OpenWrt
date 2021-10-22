@@ -19,27 +19,27 @@
 # 支持mips_24kc设备型号
 | 路由器型号| CPU型号 | 是否支持安装 |
 | :--: | :--: | :--: |
-| GL-XE300 | QCA9531 | mips_24kc |支持 |
-| GL-AR300M | QCA9531 | mips_24kc |支持 |
-| GL-AR300M-Ext | QCA9531 | mips_24kc |支持 |
-| GL-AR750 | QCA9531 | mips_24kc |支持 |
-| GL-AR750S | QCA9563 | mips_24kc |支持 |
-| GL-E750 | QCA9531 | mips_24kc |支持 |
-| GL-X750 | QCA9531 | mips_24kc |支持 |
-| GL-MiFi | AR9331 | mips_24kc |支持 |
+| GL-XE300 | QCA9531 | 支持 |
+| GL-AR300M | QCA9531 | 支持 |
+| GL-AR300M-Ext | QCA9531 | 支持 |
+| GL-AR750 | QCA9531 | 支持 |
+| GL-AR750S | QCA9563 | 支持 |
+| GL-E750 | QCA9531 | 支持 |
+| GL-X750 | QCA9531 | 支持 |
+| GL-MiFi | AR9331 | 支持 |
 # 支持ARM64设备型号
-| 路由器型号| CPU型号 | 框架 | 是否支持安装 |
-| :--: | :--: | :--: |:--: |
-| GL-MV1000  | Marvell Armada 88F3720 | aarch64_cortex-a53 |支持 |
-| GL-MV1000W | Marvell Armada 88F3720 | aarch64_cortex-a53 |支持 |
+| 路由器型号| CPU型号 | 是否支持安装 |
+| :--: | :--: | :--: |
+| GL-MV1000  | Marvell Armada 88F3720 | 支持 |
+| GL-MV1000W | Marvell Armada 88F3720 | 支持 |
 # 支持mipsel_24kc设备型号
-| 路由器型号| CPU型号 | 框架 | 是否支持安装 |
-| :--: | :--: | :--: |:--: |
-| GL-MT1300 | MT7621A | mipsel_24kc |支持 |
+| 路由器型号| CPU型号 | 是否支持安装 |
+| :--: | :--: | :--: |
+| GL-MT1300 | MT7621A | 支持 |
 # 支持mipsel_24kc设备型号
-| 路由器型号| CPU型号 | 框架 | 是否支持安装 |
-| :--: | :--: | :--: |:--: |
-| GL-SF1200 | 矽昌SF19A2890 | siflower mips32 |支持 |
+| 路由器型号| CPU型号 | 是否支持安装 |
+| :--: | :--: | :--: |
+| GL-SF1200 | 矽昌SF19A2890 | 支持 |
 
 # 路由器flash太小解决方法
 <br>只要你的设备支持TF内存卡或者USB都可以通过扩展挂载外置设备来使用
