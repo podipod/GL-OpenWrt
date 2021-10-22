@@ -13,11 +13,11 @@
 <br>--插件经过多设备测试稳定可用，保证安全可靠，请放心使用！
 <br>
 # [OpenWrt路由器插件下载地址](https://op.igotp.com)
-***访问网站提示【Error 1020】请使用代理访问！！！
-<br>https://op.igotp.com
-* [支持mipsel_24kc CPU框架「MT7621A」插件](https://op.igotp.com/category/mipsel_24kc/)  访问网站提示【Error 1020】请使用代理访问！！！
-* [支持mips_24kc 「AR9331、QCA9531、QCA9563」CPU框架插件](https://op.igotp.com/category/mips_24kc/)  访问网站提示【Error 1020】请使用代理访问！！！
-* [支持aarch64_cortex-a53「Marvell Armada 88F3720」CPU框架插件](https://op.igotp.com/category/ARM_Cortex-A53/)  访问网站提示【Error 1020】请使用代理访问！！！
+******访问网站提示【Error 1020】请使用代理访问！！！******
+* 路由器插件：https://op.igotp.com
+* [支持mipsel_24kc CPU框架「MT7621A」插件](https://op.igotp.com/category/mipsel_24kc/)
+* [支持mips_24kc 「AR9331、QCA9531、QCA9563」CPU框架插件](https://op.igotp.com/category/mips_24kc/)
+* [支持aarch64_cortex-a53「Marvell Armada 88F3720」CPU框架插件](https://op.igotp.com/category/ARM_Cortex-A53/)
 # 支持mips_24kc设备型号
 | 路由器型号| CPU型号 | 是否支持安装 |
 | :--: | :--: | :--: |
