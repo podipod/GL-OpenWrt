@@ -15,7 +15,8 @@
 # [OpenWrt路由器插件下载地址](https://op.igotp.com)
 <br>https://op.igotp.com
 * [支持mipsel_24kc CPU框架「MT7621A」插件](https://op.igotp.com/category/mipsel_24kc/)
-* [支持mips_24kc 「QCA9531、QCA9563」CPU框架插件](https://op.igotp.com/category/mips_24kc/)
+* [支持mips_24kc 「AR9331、QCA9531、QCA9563」CPU框架插件](https://op.igotp.com/category/mips_24kc/)
+* [支持aarch64_cortex-a53「Marvell Armada 88F3720」CPU框架插件](https://op.igotp.com/category/ARM_Cortex-A53/)
 # 支持mips_24kc设备型号
 | 路由器型号| CPU型号 | 是否支持安装 |
 | :--: | :--: | :--: |
@@ -27,7 +28,7 @@
 | GL-E750 | QCA9531 | 支持 |
 | GL-X750 | QCA9531 | 支持 |
 | GL-MiFi | AR9331 | 支持 |
-# 支持ARM64设备型号
+# 支持ARM64 a53设备型号
 | 路由器型号| CPU型号 | 是否支持安装 |
 | :--: | :--: | :--: |
 | GL-MV1000  | Marvell Armada 88F3720 | 支持 |
