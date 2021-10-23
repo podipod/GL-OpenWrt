@@ -1,11 +1,4 @@
-<!--
- * @Author: your name
- * @Date: 2021-10-23 21:02:02
- * @LastEditTime: 2021-10-23 21:35:33
- * @LastEditors: your name
- * @Description: In User Settings Edit
- * @FilePath: /GL-OpenWrt/README.md
--->
+
  ██████╗ ██╗        ██╗███╗   ██╗███████╗████████╗
 ██╔════╝ ██║        ██║████╗  ██║██╔════╝╚══██╔══╝
 ██║  ███╗██║        ██║██╔██╗ ██║█████╗     ██║   
