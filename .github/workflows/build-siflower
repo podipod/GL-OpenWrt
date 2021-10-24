@@ -16,7 +16,7 @@ on:
         default: 'true'
 
 env:
-  REPO_URL: https://github.com/Siflower/1806_SDK.git
+  REPO_URL: https://github.com/Siflower/1806_SDK
   REPO_BRANCH: master
   FEEDS_CONF: feeds.conf.default
   CONFIG_FILE: siflower.config
