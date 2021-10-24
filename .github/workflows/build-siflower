@@ -4,7 +4,7 @@
 # Description: Build OpenWrt using GitHub Actions
 #
 
-name: Build OpenWrt
+name: build-siflower
 
 on:
   repository_dispatch:
